@@ -88,8 +88,8 @@ Variables used:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ARTUS10/causal-block-photon.git
-cd causal-block-photon
+git clone https://github.com/ARTUS10/law-technological-power-displacement.git
+cd law-technological-power-displacement
 
 # Install dependencies
 pip install -r requirements.txt
